@@ -1,1 +1,1 @@
-# Open Source Projects by Crane Infrastructure 
+# Open Source by Crane Infrastructure 
